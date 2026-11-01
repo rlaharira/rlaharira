@@ -1,20 +1,23 @@
-<!-- Header banner -->
+<!-- Professional profile banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0B1F33,0F766E&height=190&section=header&text=Lahari%20R&fontSize=46&fontColor=F8FAFC&fontAlignY=35&desc=Software%20Engineer%20%7C%20Building%20useful%20software&descAlignY=58&descSize=16" alt="Lahari R — Software Engineer" />
+  <img src="./assets/profile-banner.svg" alt="Lahari R — Software Engineer" width="100%" />
 </p>
 
-<h3 align="center">Software Engineer | Python • JavaScript • Data & Machine Learning</h3>
-
+<h2 align="center">Hello, I'm Lahari 👋</h2>
 <p align="center">
-  I build practical projects, explore new technologies, and enjoy turning ideas into working software.
+  <strong>Software Engineer</strong> · Python · JavaScript · Web Development · Data & Machine Learning
 </p>
 
 <p align="center">
-  <a href="https://github.com/rlaharira">
-    <img src="https://img.shields.io/badge/GitHub-0B1F33?style=for-the-badge&logo=github&logoColor=F8FAFC" alt="GitHub profile" />
-  </a>
+  I enjoy turning ideas into practical software, learning by building, and creating clear, maintainable solutions.
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/lahari-r-763791384/">
-    <img src="https://img.shields.io/badge/LinkedIn-0F766E?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0F766E?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+  </a>
+  <a href="mailto:rlahari613@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-0B1F33?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Lahari" />
   </a>
 </p>
 
@@ -22,51 +25,49 @@
 
 ## About
 
-- Building and improving projects across web development, Python, and data-focused applications.
-- Exploring software engineering practices through hands-on projects.
-- Interested in clean, maintainable code and solving practical problems.
-- Currently strengthening my software engineering foundations.
+- Building hands-on projects across web development, Python, and data-focused applications.
+- Interested in software engineering fundamentals, problem-solving, and maintainable code.
+- Learning continuously through experimentation and practical projects.
+- Open to opportunities to collaborate, contribute, and grow as a software engineer.
 
-## Featured Projects
+## Selected Projects
 
-| Project | Overview |
+| Project | What it explores |
 | --- | --- |
-| [Tourism Experience Analytics](https://github.com/rlaharira/Tourism-Experience-Analytics) | Python project exploring tourism data through preprocessing, exploratory analysis, visualization, and machine-learning workflows. |
-| [DeepFER](https://github.com/rlaharira/DeepFER) | CNN-based deepfake image classification project documented in a Jupyter Notebook. |
-| [Simple Calculator](https://github.com/rlaharira/simple-calculator) | Browser-based calculator built with HTML, CSS, and JavaScript. |
-| [To-Do List](https://github.com/rlaharira/todo-list) | Lightweight task-list application built with web fundamentals. |
-| [Number Guessing Game](https://github.com/rlaharira/number-guessing-game) | JavaScript game featuring random number generation and input validation. |
+| [Tourism Experience Analytics](https://github.com/rlaharira/Tourism-Experience-Analytics) | Tourism data analysis, preprocessing, visualization, and machine-learning workflows. |
+| [DeepFER](https://github.com/rlaharira/DeepFER) | Deep-learning-based image classification work using a convolutional neural network. |
+| [FSWD](https://github.com/rlaharira/FSWD) | Full-stack web development practice and implementation. |
+| [Simple Calculator](https://github.com/rlaharira/simple-calculator) | A browser-based calculator built with HTML, CSS, and JavaScript. |
+| [To-Do List](https://github.com/rlaharira/todo-list) | A lightweight task-management application using web fundamentals. |
+| [Number Guessing Game](https://github.com/rlaharira/number-guessing-game) | A JavaScript game focused on randomization and input handling. |
 
-## Technologies
-
-**Programming & Web**
-
-<p>
-  <img src="https://img.shields.io/badge/Python-0B1F33?style=for-the-badge&logo=python&logoColor=F8FAFC" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-0F766E?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-0B1F33?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-0F766E?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</p>
-
-**Data & Machine Learning**
+## Technology Toolkit
 
 <p>
-  <img src="https://img.shields.io/badge/Pandas-0B1F33?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-0F766E?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/scikit--learn-0B1F33?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/TensorFlow-0F766E?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/OpenCV-0B1F33?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/Python-0B1F33?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-0F766E?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-0B1F33?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-0F766E?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Pandas-0B1F33?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-0F766E?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/scikit--learn-0B1F33?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/TensorFlow-0F766E?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/OpenCV-0B1F33?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
 </p>
 
-## GitHub Overview
+## GitHub Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rlaharira&show_icons=true&hide_border=true&bg_color=F8FAFC&title_color=0F766E&icon_color=0F766E&text_color=0B1F33" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rlaharira&layout=compact&hide_border=true&bg_color=F8FAFC&title_color=0F766E&text_color=0B1F33" alt="Most used languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rlaharira&show_icons=true&hide_border=true&bg_color=071827&title_color=5EEAD4&icon_color=2DD4BF&text_color=E2F3F2" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rlaharira&layout=compact&hide_border=true&bg_color=071827&title_color=5EEAD4&text_color=E2F3F2" alt="Most used languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=rlaharira&hide_border=true&background=071827&ring=2DD4BF&fire=5EEAD4&currStreakLabel=5EEAD4&sideLabels=E2F3F2&dates=9FB7C5&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak" />
 </p>
 
 ---
 
 <p align="center">
-  <i>Keep learning. Keep building. Keep improving.</i>
+  <em>Learn continuously. Build thoughtfully. Improve every day.</em>
 </p>
