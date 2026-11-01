@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">Lahari R — Software Engineer</title>
+<desc id="desc">A professional navy and teal technology banner with subtle grid and circuit-line details.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#071827"/><stop offset=".55" stop-color="#0B2638"/><stop offset="1" stop-color="#0B3D3B"/></linearGradient>
+  <radialGradient id="glow"><stop offset="0" stop-color="#14B8A6" stop-opacity=".32"/><stop offset="1" stop-color="#14B8A6" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse"><path d="M34 0H0V34" fill="none" stroke="#B8E7E2" stroke-opacity=".08" stroke-width="1"/></pattern>
+  <linearGradient id="line" x1="0" x2="1"><stop stop-color="#2DD4BF" stop-opacity="0"/><stop offset=".5" stop-color="#2DD4BF" stop-opacity=".8"/><stop offset="1" stop-color="#2DD4BF" stop-opacity="0"/></linearGradient>
+</defs>
+<rect width="1200" height="360" rx="24" fill="url(#bg)"/><rect width="1200" height="360" rx="24" fill="url(#grid)"/>
+<ellipse cx="980" cy="80" rx="330" ry="250" fill="url(#glow)"/>
+<g fill="none" stroke="#5EEAD4" stroke-opacity=".34" stroke-width="2">
+<path d="M760 0V70H860V120H1020V180H1200"/><path d="M900 0V40H1080V95H1200"/><path d="M820 360V300H940V250H1100V215H1200"/>
+<path d="M1040 0V25H1140V60H1200"/><path d="M700 250H790V210H870"/>
+</g>
+<g fill="#5EEAD4" fill-opacity=".8"><circle cx="860" cy="120" r="4"/><circle cx="1020" cy="180" r="4"/><circle cx="1080" cy="95" r="4"/><circle cx="940" cy="250" r="4"/><circle cx="1140" cy="60" r="4"/></g>
+<path d="M72 92H370" stroke="url(#line)" stroke-width="2"/>
+<text x="76" y="155" fill="#F0FDFA" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="58" font-weight="700" letter-spacing="1">LAHARI R.</text>
+<text x="80" y="205" fill="#5EEAD4" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22" font-weight="600" letter-spacing="5">SOFTWARE ENGINEER</text>
+<text x="80" y="250" fill="#C5D9E2" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" letter-spacing=".5">Building thoughtful solutions with code.</text>
+<rect x="80" y="282" width="110" height="4" rx="2" fill="#2DD4BF"/><rect x="198" y="282" width="42" height="4" rx="2" fill="#2DD4BF" fill-opacity=".45"/>
+</svg>
